@@ -1,8 +1,6 @@
-print("hello")
-git config --global user.email johndoe@example.com
+print("hello");
+git config --global user.email;
 
-hi all
-
-cont1
-cont2
-cont3
+cont1;
+cont2;
+cont3;
